@@ -16,5 +16,8 @@ to classify recyclables based on the classes of:
 It had the aforementioned 5 classes of reclyables from Portland State University at the following link.
 [https://web.cecs.pdx.edu/~singh/rcyc-web/dataset.html]
 
+Download files under download and the [Recycled dataset python version] link.
+Extract files and put them in the same folder as the ipynb file in this repo. The test file is provided, the train file does not fit in the repo and must be downloaded separately from the website.
+
 ## About Experience
 The experience allowed for creation of a machine learning project from the ground up with two group members that involved detailed planning and production of various machine learning tactics to create a model. We chose to classify recyclables as we saw ita importance to UVA and Virginia as a whole. This project was done as part of ML4VA as part of Rich Nguyen's class.
